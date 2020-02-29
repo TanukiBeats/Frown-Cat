@@ -7,3 +7,7 @@ Updates
 - Planning report has been submitted.
 - 4 projects created in "projects" tab to help with organization.
 - Rubrics included as issues under "issues" tab.
+
+2/29/2020: Updated by Miwako Ito
+- Created "backups" directory.
+- Added planning report CAPCOST sheet.
